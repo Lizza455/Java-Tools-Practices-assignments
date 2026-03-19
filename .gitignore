@@ -1,0 +1,23 @@
+# Compiled files
+*.class
+*.jar
+*.war
+
+# Maven / Gradle build output
+target/
+build/
+
+# IDE — IntelliJ
+.idea/
+*.iml
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JVM crash logs
+hs_err_pid*
+
+# Logs
+*.log
