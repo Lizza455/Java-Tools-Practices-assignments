@@ -30,6 +30,6 @@ They were tested on random, sorted, reversed, and almost sorted data using JMH.
 
 ## Report
 
-[Report (^_^)](./report.pdf)
+[Report (^_^)](./Report.pdf)
 
 
